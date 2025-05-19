@@ -1,0 +1,8 @@
+opencv-python
+pillow
+ultralytics
+djitellopy
+python-telegram-bot
+tkintermapview
+tk
+asyncio
