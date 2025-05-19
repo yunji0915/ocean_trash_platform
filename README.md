@@ -2,7 +2,7 @@
 
 > **드론 + YOLO + 텔레그램 + GUI 올인원 AI 프로젝트**
 
-![UI전체화면](images/result1.jpg)
+![UI전체화면](images/result1.png)
 
 ---
 
